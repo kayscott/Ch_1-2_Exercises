@@ -1,7 +1,0 @@
-hours = raw_input('Enter Hours') 
-rate = raw_input('Enter Rate') 
-hours1 = int(hours)
-type(hours)
-rate1 = float(rate)
-type(rate1) 
-print rate1 * hours1
